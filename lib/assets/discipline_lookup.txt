@@ -1,0 +1,8 @@
+1,Huntsman
+2,Artificer
+3,Weaponsmith
+4,Armorsmith
+5,Leatherworker
+6,Tailor
+7,Jeweler
+8,Cook

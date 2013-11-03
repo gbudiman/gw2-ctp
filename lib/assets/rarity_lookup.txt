@@ -1,0 +1,8 @@
+1,common
+2,basic
+3,fine
+4,masterwork
+5,rare
+6,exotic
+7,legendary
+8,ascended
